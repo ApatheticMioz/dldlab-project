@@ -1,0 +1,36 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+*~
+
+# Package managers / builds
+node_modules/
+dist/
+build/
+
+# Python virtual environments
+.env
+.venv/
+venv/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Compiled assets
+*.pyc
+__pycache__/
+
+# Circuit design backups
+Project Backups/
+*Autosaved*.pdsprj
+*.pdsbak
