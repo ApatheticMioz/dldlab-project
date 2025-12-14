@@ -25,12 +25,23 @@ ENV/
 .vscode/
 .idea/
 *.iml
+*.swp
 
 # Compiled assets
 *.pyc
 __pycache__/
+*.exe
+*.o
+*.out
 
-# Circuit design backups
+# Proteus circuit design artifacts
 Project Backups/
 *Autosaved*.pdsprj
 *.pdsbak
+*.workspace
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
